@@ -1,0 +1,19 @@
+.Posts {
+    width: 100%;
+    /* border:1px solid red; */
+    height: 45vh;
+}
+
+/* Posts Styles */
+
+/* ------------------------------------------------------------------------------- */
+
+/* Post Styles */
+
+.Post {
+    width: 100%;
+    height: auto;
+    border: 1px solid #234465;
+    margin-bottom: 3%;
+    border-radius: 4px;
+}
