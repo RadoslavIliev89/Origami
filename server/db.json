@@ -1,0 +1,14 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "content":"lorem ipsum dolor sit amet, consectetur adipis lorem ipsum dolor sit amet, consectetur adipis1111",
+            "author":"Pesho"
+        },
+        {
+            "id": 2,
+            "content":"lorem ipsum dolor sit amet, consectetur adipis lorem ipsum dolor sit amet, consectetur adipis2222",
+            "author":"Gosho"
+        }
+    ]
+}
