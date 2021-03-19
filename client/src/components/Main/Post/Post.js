@@ -2,12 +2,21 @@ import './Post.css';
 
 
 const Post = ({
-    children
+    content,
+    author
 }) => {
+
     return (
 
-        <div className="Posts">
-        
+        <div className="post">
+            <img src="blue-origami-bird.png" alt="blue-origami-bird" />
+            <p className="description">{content}</p>
+            <div>
+                <span>
+                    <small>Author:</small>
+                    {author}
+                </span>
+            </div>
         </div>
     );
 }
